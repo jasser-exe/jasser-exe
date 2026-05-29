@@ -1,6 +1,6 @@
-```html
-<h1 align="center">Hi 👋, I'm Jasser Ifaoui</h1>
-<h3 align="center">Computer Science Student | AI & Mobile App Enthusiast</h3>
+# Hi 👋, I'm Jasser Ifaoui
+
+### Computer Science Student | AI & Mobile App Enthusiast
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=AI+Developer;Mobile+App+Builder;Computer+Science+Student;Always+Learning+New+Things" />
@@ -17,6 +17,7 @@
   - Mobile Development
   - Backend Development
   - Smart Chatbots
+
 - 🌱 Currently learning:
   - React Native + Expo
   - Node.js
@@ -28,11 +29,13 @@
 ## 🛠️ Tech Stack
 
 ### Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,python,sql" />
 </p>
 
 ### Frameworks & Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,expo,firebase,mysql,git,github,vscode" />
 </p>
@@ -43,7 +46,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
-  
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
@@ -59,15 +62,10 @@
 
 ## 🌐 Connect With Me
 
-<p>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/YOUR_USERNAME)
 
 ---
 
 <p align="center">
-  ⚡ “Code. Learn. Build. Repeat.”
+  ⚡ Code. Learn. Build. Repeat.
 </p>
-```
