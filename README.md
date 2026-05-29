@@ -1,16 +1,4 @@
-## Hi there 👋
-
-<!--
-**jasser-exe/jasser-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...<h1 align="center">Hi 👋, I'm Jasser Ifaoui</h1>
+<h1 align="center">Hi 👋, I'm Jasser Ifaoui</h1>
 <h3 align="center">Computer Science Student | AI & Mobile App Enthusiast</h3>
 
 <p align="center">
@@ -93,6 +81,3 @@ An AI-powered habit tracker designed to help users:
 <p align="center">
   ⚡ “Code. Learn. Build. Repeat.”
 </p>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
