@@ -1,3 +1,4 @@
+```html
 <h1 align="center">Hi 👋, I'm Jasser Ifaoui</h1>
 <h3 align="center">Computer Science Student | AI & Mobile App Enthusiast</h3>
 
@@ -11,7 +12,6 @@
 
 - 🎓 Computer Science student from Tunisia
 - 🤖 Building AI-powered applications
-- 📱 Working on a habit tracking app called **Closer**
 - 💡 Interested in:
   - Artificial Intelligence
   - Mobile Development
@@ -36,17 +36,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,expo,firebase,mysql,git,github,vscode" />
 </p>
-
----
-
-## 📌 Current Project
-
-### 🚀 Closer
-An AI-powered habit tracker designed to help users:
-- Build better habits
-- Stay motivated
-- Talk with an emotionally intelligent AI assistant
-- Track goals and progress
 
 ---
 
@@ -81,3 +70,4 @@ An AI-powered habit tracker designed to help users:
 <p align="center">
   ⚡ “Code. Learn. Build. Repeat.”
 </p>
+```
