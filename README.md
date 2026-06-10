@@ -31,7 +31,7 @@
 
 ### Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,expo,firebase,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,expo,mysql,git,github,vscode" />
 </p>
 
 ---
